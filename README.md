@@ -1,1 +1,2 @@
-# Select_Robots
+# robofriends
+A simple react app.
